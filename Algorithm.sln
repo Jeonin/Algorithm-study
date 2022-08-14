@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "일일알고리즘", "일일알고리즘", "{62B245E8-AD1C-4BAA-9BD2-D22DEACFBBD2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "알고리즘연습", "알고리즘연습", "{4B137C49-EBE4-41BD-BDEC-A27E6F0D39E9}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1일차", "1일차\1일차.vcxproj", "{00683CDC-8021-4224-BDF2-745A190ED4EA}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2일차", "2일차\2일차.vcxproj", "{1AA89EEB-0F63-4BD0-87C2-71C90A052944}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00683CDC-8021-4224-BDF2-745A190ED4EA}.Debug|x64.ActiveCfg = Debug|x64
+		{00683CDC-8021-4224-BDF2-745A190ED4EA}.Debug|x64.Build.0 = Debug|x64
+		{00683CDC-8021-4224-BDF2-745A190ED4EA}.Debug|x86.ActiveCfg = Debug|Win32
+		{00683CDC-8021-4224-BDF2-745A190ED4EA}.Debug|x86.Build.0 = Debug|Win32
+		{00683CDC-8021-4224-BDF2-745A190ED4EA}.Release|x64.ActiveCfg = Release|x64
+		{00683CDC-8021-4224-BDF2-745A190ED4EA}.Release|x64.Build.0 = Release|x64
+		{00683CDC-8021-4224-BDF2-745A190ED4EA}.Release|x86.ActiveCfg = Release|Win32
+		{00683CDC-8021-4224-BDF2-745A190ED4EA}.Release|x86.Build.0 = Release|Win32
+		{1AA89EEB-0F63-4BD0-87C2-71C90A052944}.Debug|x64.ActiveCfg = Debug|x64
+		{1AA89EEB-0F63-4BD0-87C2-71C90A052944}.Debug|x64.Build.0 = Debug|x64
+		{1AA89EEB-0F63-4BD0-87C2-71C90A052944}.Debug|x86.ActiveCfg = Debug|Win32
+		{1AA89EEB-0F63-4BD0-87C2-71C90A052944}.Debug|x86.Build.0 = Debug|Win32
+		{1AA89EEB-0F63-4BD0-87C2-71C90A052944}.Release|x64.ActiveCfg = Release|x64
+		{1AA89EEB-0F63-4BD0-87C2-71C90A052944}.Release|x64.Build.0 = Release|x64
+		{1AA89EEB-0F63-4BD0-87C2-71C90A052944}.Release|x86.ActiveCfg = Release|Win32
+		{1AA89EEB-0F63-4BD0-87C2-71C90A052944}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{00683CDC-8021-4224-BDF2-745A190ED4EA} = {62B245E8-AD1C-4BAA-9BD2-D22DEACFBBD2}
+		{1AA89EEB-0F63-4BD0-87C2-71C90A052944} = {62B245E8-AD1C-4BAA-9BD2-D22DEACFBBD2}
+	EndGlobalSection
+EndGlobal
