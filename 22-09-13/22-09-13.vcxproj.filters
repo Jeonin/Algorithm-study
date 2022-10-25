@@ -30,5 +30,20 @@
     <ClCompile Include="15649.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="N과M(2)(15650).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="N과M(3)(15651).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="N과M(4)(15652).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="N과M%285%29%2815654%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="N과M%286%29%2815655%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
