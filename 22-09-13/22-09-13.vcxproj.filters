@@ -63,5 +63,11 @@
     <ClCompile Include="N과M(12)(15666).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="숨바꼭질 3(13549).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="알고스팟(1261).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
