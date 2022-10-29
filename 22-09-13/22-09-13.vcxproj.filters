@@ -69,5 +69,11 @@
     <ClCompile Include="알고스팟(1261).cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="뱀과 사다리 게임(16928).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="데스 나이트(16948).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
