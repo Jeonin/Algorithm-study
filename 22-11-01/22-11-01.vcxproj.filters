@@ -3,5 +3,11 @@
   <ItemGroup>
     <ClCompile Include="보석 도둑(1202).cpp" />
     <ClCompile Include="동전 뒤집기%281285%29-false.cpp" />
+    <ClCompile Include="통계학%282108%29-false.cpp" />
+    <ClCompile Include="나이순 정렬(10814).cpp" />
+    <ClCompile Include="국영수(10825).cpp" />
+    <ClCompile Include="돌 그룹(12886).cpp" />
+    <ClCompile Include="로또%286603%29.cpp" />
+    <ClCompile Include="트리의 부모 찾기%2811725%29.cpp" />
   </ItemGroup>
 </Project>
