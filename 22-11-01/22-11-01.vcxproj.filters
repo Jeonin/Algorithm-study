@@ -9,5 +9,7 @@
     <ClCompile Include="돌 그룹(12886).cpp" />
     <ClCompile Include="로또%286603%29.cpp" />
     <ClCompile Include="트리의 부모 찾기%2811725%29.cpp" />
+    <ClCompile Include="부분수열의 합(1182).cpp" />
+    <ClCompile Include="부분수열의 합(14225).cpp" />
   </ItemGroup>
 </Project>
