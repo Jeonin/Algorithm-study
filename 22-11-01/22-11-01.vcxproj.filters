@@ -15,5 +15,7 @@
     <ClCompile Include="연산자 끼워넣기2(15658).cpp" />
     <ClCompile Include="두 동전%2816197%29-false.cpp" />
     <ClCompile Include="인구 이동%2816234%29-false.cpp" />
+    <ClCompile Include="에너지 모으기(16198).cpp" />
+    <ClCompile Include="N-Queen(9663).cpp" />
   </ItemGroup>
 </Project>
