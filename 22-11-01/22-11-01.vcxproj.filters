@@ -2,8 +2,6 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
     <ClCompile Include="보석 도둑(1202).cpp" />
-    <ClCompile Include="동전 뒤집기%281285%29-false.cpp" />
-    <ClCompile Include="통계학%282108%29-false.cpp" />
     <ClCompile Include="나이순 정렬(10814).cpp" />
     <ClCompile Include="국영수(10825).cpp" />
     <ClCompile Include="돌 그룹(12886).cpp" />
@@ -14,8 +12,12 @@
     <ClCompile Include="연산자 끼워넣기(14888).cpp" />
     <ClCompile Include="연산자 끼워넣기2(15658).cpp" />
     <ClCompile Include="두 동전%2816197%29-false.cpp" />
-    <ClCompile Include="인구 이동%2816234%29-false.cpp" />
     <ClCompile Include="에너지 모으기(16198).cpp" />
     <ClCompile Include="N-Queen(9663).cpp" />
+    <ClCompile Include="유기농 배추(1012).cpp" />
+    <ClCompile Include="스도쿠(2580).cpp" />
+    <ClCompile Include="인구 이동%2816234%29.cpp" />
+    <ClCompile Include="통계학%282108%29.cpp" />
+    <ClCompile Include="동전 뒤집기%281285%29.cpp" />
   </ItemGroup>
 </Project>
