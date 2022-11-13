@@ -19,5 +19,6 @@
     <ClCompile Include="인구 이동%2816234%29.cpp" />
     <ClCompile Include="통계학%282108%29.cpp" />
     <ClCompile Include="동전 뒤집기%281285%29.cpp" />
+    <ClCompile Include="나무 재테크(16235).cpp" />
   </ItemGroup>
 </Project>
