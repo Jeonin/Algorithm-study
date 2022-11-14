@@ -20,5 +20,7 @@
     <ClCompile Include="통계학%282108%29.cpp" />
     <ClCompile Include="동전 뒤집기%281285%29.cpp" />
     <ClCompile Include="나무 재테크(16235).cpp" />
+    <ClCompile Include="부등호(2529).cpp" />
+    <ClCompile Include="단어 수학(1339).cpp" />
   </ItemGroup>
 </Project>
