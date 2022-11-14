@@ -22,5 +22,6 @@
     <ClCompile Include="나무 재테크(16235).cpp" />
     <ClCompile Include="부등호(2529).cpp" />
     <ClCompile Include="단어 수학(1339).cpp" />
+    <ClCompile Include="연구소(14502).cpp" />
   </ItemGroup>
 </Project>
