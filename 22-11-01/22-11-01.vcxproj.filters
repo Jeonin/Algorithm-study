@@ -23,5 +23,7 @@
     <ClCompile Include="부등호(2529).cpp" />
     <ClCompile Include="단어 수학(1339).cpp" />
     <ClCompile Include="연구소(14502).cpp" />
+    <ClCompile Include="가르침.cpp" />
+    <ClCompile Include="구슬 탈출 2(13460).cpp" />
   </ItemGroup>
 </Project>
