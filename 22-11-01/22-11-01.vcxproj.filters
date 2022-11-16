@@ -25,5 +25,8 @@
     <ClCompile Include="연구소(14502).cpp" />
     <ClCompile Include="가르침.cpp" />
     <ClCompile Include="구슬 탈출 2(13460).cpp" />
+    <ClCompile Include="수들의 합 2(2003).cpp" />
+    <ClCompile Include="부분합(1806).cpp" />
+    <ClCompile Include="2048(Easy).cpp" />
   </ItemGroup>
 </Project>
