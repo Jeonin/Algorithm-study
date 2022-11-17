@@ -17,7 +17,7 @@ void dfs(int result, int cnt)
 	{
 		iMax = max(iMax, result);
 		iMin = min(iMin, result);
-		return;a
+		return;
 	}
 
 	for (int i = 0; i < 4; ++i)
