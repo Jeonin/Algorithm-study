@@ -28,5 +28,6 @@
     <ClCompile Include="수들의 합 2(2003).cpp" />
     <ClCompile Include="부분합(1806).cpp" />
     <ClCompile Include="2048(Easy).cpp" />
+    <ClCompile Include="부분수열의 합2(1208).cpp" />
   </ItemGroup>
 </Project>
