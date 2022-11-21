@@ -32,5 +32,9 @@
     <ClCompile Include="소수의 연속합(1644).cpp" />
     <ClCompile Include="두 배열의 합(2143).cpp" />
     <ClCompile Include="이동하기(11048).cpp" />
+    <ClCompile Include="Two Dots%2816929%29.cpp" />
+    <ClCompile Include="서울 지하철 2호선(16947).cpp" />
+    <ClCompile Include="점프 점프(11060).cpp" />
+    <ClCompile Include="육각 보드(12946).cpp" />
   </ItemGroup>
 </Project>
