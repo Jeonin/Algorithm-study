@@ -36,5 +36,7 @@
     <ClCompile Include="서울 지하철 2호선(16947).cpp" />
     <ClCompile Include="점프 점프(11060).cpp" />
     <ClCompile Include="육각 보드(12946).cpp" />
+    <ClCompile Include="RE_뱀과 사다리 게임(16928).cpp" />
+    <ClCompile Include="RE_데스 나이트(16948).cpp" />
   </ItemGroup>
 </Project>
