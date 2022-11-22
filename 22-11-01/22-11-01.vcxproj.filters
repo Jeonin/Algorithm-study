@@ -38,5 +38,7 @@
     <ClCompile Include="육각 보드(12946).cpp" />
     <ClCompile Include="RE_뱀과 사다리 게임(16928).cpp" />
     <ClCompile Include="RE_데스 나이트(16948).cpp" />
+    <ClCompile Include="BFS 스페셜 저지%2816940%29.cpp" />
+    <ClCompile Include="DFS 스페셜 저지(16964).cpp" />
   </ItemGroup>
 </Project>
