@@ -42,5 +42,6 @@
     <ClCompile Include="DFS 스페셜 저지(16964).cpp" />
     <ClCompile Include="벽 부수고 이동하기(2206).cpp" />
     <ClCompile Include="1학년(5557).cpp" />
+    <ClCompile Include="레벨 햄버거(16974).cpp" />
   </ItemGroup>
 </Project>
